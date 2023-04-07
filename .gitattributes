@@ -1,0 +1,6 @@
+论文 filter=lfs diff=lfs merge=lfs -text
+CAI[[:space:]]实践手册、课程考查.pdf filter=lfs diff=lfs merge=lfs -text
+《Computational[[:space:]]Artificial[[:space:]]Intelligence》教学大纲2022-23.pdf filter=lfs diff=lfs merge=lfs -text
+《Computational[[:space:]]Artificial[[:space:]]Intelligence》讲稿[[:space:]]-[[:space:]]2022-23.pdf filter=lfs diff=lfs merge=lfs -text
+《Computational[[:space:]]Artificial[[:space:]]Intelligence》（教材及辅助材料）.PDF filter=lfs diff=lfs merge=lfs -text
+小组作业 filter=lfs diff=lfs merge=lfs -text
